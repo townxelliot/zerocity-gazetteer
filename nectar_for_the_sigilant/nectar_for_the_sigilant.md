@@ -2,25 +2,65 @@
 
 An adventure for Troika!, Elliot Smith 2021-05-11
 
+Map of the Abyss drawn with [Inkarnate](https://inkarnate.com/).
+
+Map of Sighing generated using [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator).
+
 # Introduction
 
-Through misfortune, the PCs' golden barge has crash landed in the Abyss, at the base of its kilometres-deep vaunted obsidian cliffs. The barge will require repair before it is fit to fly again.
+Through misfortune, the PCs' golden barge has crash landed in the Abyss, at the base of its kilometres-deep obsidian cliffs. Perhaps they were travelling together to the same destination. The barge pilot, Drago, is very annoyed as he was due to go on holiday when his shift ended. He informs the PCs the barge will require repair before it is fit to fly again; the parts it needs are a gyro adjuster, rubber sphincter, A2 bell bearings and a plasmic core.
 
-On leaving the stricken craft, a surprisingly dense atmosphere assaults the PCs with humid heat. There is a sickly scent of honey and over-ripe bananas. The sky is a thin brown line far overhead, pinched between the overbearing cliffs. Low brown clouds within the Abyss itself rumble ominously and crackle with lightning before tipping brown rain on the cracked grey plains. Distant whistling occurs.
+Outside the barge, the atmosphere is dense, hot and humid. There is a sickly scent of honey and over-ripe bananas. Underfoot is cracked grey earth. The sky is a thin brown line 10km overhead, pinched between overbearing cliffs. Low brown clouds rumble ominously and crackle with lightning. Suddenly, the clouds burst, showering you with brown sleet. You can hear faint, distant whistling.
 
-Hunched at the base of the cliffs is the village of Sighing. It is a cluster of a few dozen metal shipping containers serving as houses; a clapboard inn, **The Tired Person**; and a barren dusty shop, **Useless Barry's Shop**. The grey-skinned, stooped, xenophobic villagers scrape a living here, tending spiralling blue-green grasses. These yield miserly grey bananas with mildly narcotic side effects.
+Nearby, at the base of the cliffs, is the village of Sighing. There is a map of it on a nearby noticeboard. The village is a cluster of a few dozen metal shipping containers serving as houses. On entering the village, the grey-skinned, stooped villagers look past the new arrivals, their eyes dull and glazed. If roused from their drug-induced stupor, they are generally xenophobic and idiotic. They scrape a living here, tending spiralling blue-green grasses which yield grey pseudo-bananas with mildly narcotic side effects. These and other pseudo-banana species (the purple being carrying the highest dose of sedatives) are the staple diet throughout the Abyss.
 
-There is one singular feature in Sighing: 1km up the cliff is the **Castle of the Eye**. It is made of glass cubes, arranged into the shape of an eye, about 300 metres across. The outer ring of cubes is opaque, uncoloured glass; inside that is another ring of amber-coloured cubes; inside that, a ring of blue cubes; then a final circle in the centre, made up of dark grey cubes. Each cube is about 10m on a side (some smaller, some larger). The cubes are joined by a maze of clear glass walkways with see-through floors.
+The clouds part, revealing the most remarkable feature of Sighing: 1km up the cliff is a structure made of glass cubes, arranged into the shape of an eye, about 300 metres across. The outer ring of cubes is opaque, uncoloured glass; inside that is another ring of amber-coloured cubes; inside that, a ring of blue cubes; then a final circle in the centre, made up of dark grey cubes. Each cube is about 10m on a side (some smaller, some larger). The cubes are joined by a maze of clear glass walkways with see-through floors. The map explains that this is the **Castle of the Eye**, owned and inhabited by **Sigilant Gruber** (see below).
 
-# Repairing the barge
+# Around town
 
-On investigation, it soon becomes clear that Useless Barry's Shop has none of the equipment required to repair the barge. Or at least, Barry can't find it and doesn't seem to want any customers, as he rudely explains.
+The village has a clapboard inn, **The Tired Cliché**; and a barren dusty shop, **Useless Barry's Shop**.
 
-The villagers will grudgingly divulge that the PCs' best chance would be to consult the Sigilant, who lives, all-knowing, in the Eye Castle. Other alternatives could be sought elsewhere: perhaps the town of Dank, populated by feckless chittering hymenopterans; or Mind Camp, whose dreaming inhabitants may help in exchange for precious memories, though that could take decades.
+## Useless Barry's Shop
 
-The Sigilant mentioned is Sigilant Gruber, inhabitant of the Castle of the Eye and dictator of Sighing. He has ruled as long as anyone can remember. Villagers are rarely invited to his castle, and the Sigilant never leaves. Access is via a glass elevator at the base of the cliff. A notice outside reads:
+On investigation, it soon becomes clear that Useless Barry's Shop has none of the equipment required to repair the barge. Or at least, Barry can't find it and doesn't seem to want any customers. He takes forever to find anything.
 
-"Enter the elevator and state your purpose succinctly. Audiences granted only to those who may benefit the Sigilant."
+He has a variety of dusty items for sale, including dark heavy beer, a side of cured pork, blankets, towels, dry rations, simple weapons, and gloves. Barry won't notice if people steal his wares.
+
+## The Tired Cliché inn
+
+The innkeeper of The Tired Cliché is **Arriente**. The most interesting thing about her is her name. She speaks in a clichéd way:
+
+"I got this job through a relative. Like they say, it's not what you know, it's who you know."
+
+"Only time will tell if I can make a go of it. It's not looking hopeful at the moment. I'm not having the time of my life."
+
+"Cat got your tongue?"
+
+"Someone woke up on the wrong side of the bed!"
+
+Arriente's daughter, Pam, helps out around the inn. She is the spitting image of her mum.
+
+Arriente knows that the Sigilant has lived here for centuries. "He is as old as the hills." According to her, he hasn't left his castle for at least 5 years. He only occasionally intervenes to insist that a festival is held in his honour, to make judgements over the very few crimes committed in town, or to ritually humiliate someone for his entertainment. All communication is carried out via a comms unit in the elevator.
+
+If the PCs want to buy a drink, they have a variety of cocktails, all of which taste of banana; tea made from the grasses harvested by the people, which tastes of banana and hay; and a strong dark cloudy beer, made of something else, possibly insects.
+
+## Torry the helpful man
+
+There is one out-of-place inhabitant who will help: a brightly-coloured jester of a man called **Torrington Torponales**, "call me Torry!", who is full of enthusiasm, hope and japes. He is one of the few people in Sighing who doesn't eat the bananas, instead living on imported Hymenopteran Brand crackers (no salt) from Dank.
+
+"You look like fun! Look lively!" as he swipes you with a balloon on a stick.
+
+No one in the village likes him as he is very annoying. The other villagers throw stones at him while he's talking to the PCs.
+
+He will divulge that the PCs' best chance would be to consult the Sigilant, who lives, all-knowing, in the Eye Castle. Other alternatives could be sought elsewhere: perhaps the town of Dank, populated by hymenopteran traders, "Though they are feckless and chittering..."; or Mind Camp, whose dreaming inhabitants may help in exchange for precious memories, though that could take decades. "My mum never did come back...That's not a quest by the way, we're 99% sure she's dead."
+
+"If you go by road, watch out for the lamia that lives in a ruined barn."
+
+## The elevator to the castle
+
+The Sigilant mentioned around town is **Sigilant Gruber**, inhabitant of the Castle of the Eye and dictator of Sighing. He has ruled as long as anyone can remember. Villagers are rarely invited to his castle, and the Sigilant never leaves. Access is via a glass elevator at the base of the cliff. A notice outside reads:
+
+"Enter the elevator and state your purpose succinctly. Audiences granted only to those who will benefit the Sigilant."
 
 The Sigilant would not normally agree to help outsiders. On this occasion, though, he has a matter of his own with which he requires assistance. The torpor of the villagers, brought on by the narcotic fruit, means he cannot entrust it to them. Thus, he will seize on the idea of meeting needy strangers and granting them access to his castle, in the hope that they will prove his salvation.
 
@@ -45,25 +85,31 @@ Each cube is lined with sculptures, paintings, and pedestals displaying curious 
     * A life-sized horse made of clear glass whose veins are filled with hyperactive golden beetles.
     * A ruby mask which becomes transparent when you put it on, and ruby again when removed.
     * A sticky ball of almost invisible thread which exudes all the colours of the rainbow like a liquid.
-    None of the objects has any perceptible purpose. If a character asks why they didn't get their heart's desire, Jeevz will say, "It's probably broken".
+    None of the objects has any perceptible purpose. If a PC asks why they didn't get their heart's desire, Jeevz will say, "It's probably broken". Jeevz will allows the PCs to take anything dispensed by the device.
 
-* **A painting of a deserted town square surrounded on three sides by stark white buildings, leaning at vertiginous angles.** When viewed, the perspective changes, as if in three dimensions. A single leaf patterned with an eye blows across the flagstones. If a character tries putting their hand into the painting (they are welcome to), it is like putting it out of a window: they feel a cool breeze blowing over their skin, a few spots of rain. If they watch for a few minutes, the flagstones become wet as it starts to rain in the picture. No object larger than an arm can enter; an object can't travel in more than 50cm; it's not possible to throw objects in (they have to remain attached to something); and putting your face in doesn't work (the painting's surface acts like a forcefield to prevent this).
+*   **A painting of a deserted town square, the home of one of the PCs.** Surrounded on three sides by stark white buildings, leaning at vertiginous angles. When viewed, the perspective changes, as if in three dimensions. A single leaf patterned with an eye blows across some flagstones. If a character tries putting their hand into the painting, it is like putting it out of a window: they feel a cool breeze blowing over their skin, a few spots of rain. If they watch for a few minutes, the flagstones become wet as it starts to rain in the picture. No object larger than an arm can enter; an object can't travel in more than 50cm; it's not possible to throw objects in (they have to remain attached to something); and putting your face in doesn't work (the painting's surface acts like a forcefield).
 
-* **A smooth silver disk mounted on a pedestal.** When someone passes, it mimics the face of that person. If two or more people stand in front of it, it forms a combination of their features. If spoken to, the mask replies with gibberish approximating the words spoken to it. Jeevz points out that it used to reply sensibly, but broke a few centuries ago.
+*   **A smooth silver disk mounted on a pedestal.** When someone passes, it mimics the face of that person. If two or more people stand in front of it, it forms a combination of their features. If spoken to, the mask replies with gibberish approximating the words spoken to it. Jeevz points out that it used to reply sensibly, but broke a few centuries ago.
 
-* **An enormous bag of oddly-shaped objects which look like sweets.** None of them taste like anything the PCs have tasted before, most are disgusting, and some are the most delicious things they've ever experienced.
+*   **An enormous bag of oddly-shaped objects which look like sweets.** None of them taste like anything the PCs have tasted before, most are disgusting, and some are the most delicious things they've ever experienced.
 
 The Sigilant also has a range of more exotic and dangerous items, but these are elsewhere, carefully isolated from each other to prevent accidents.
 
 ## The throne room, and what the Sigilant thinks is happening
 
-> Finally, you reach the Sigilant's "throne room", in another of the blue cubes. The Sigilant himself floats towards you just above the floor on a silver anti-gravity throne adorned with bird-like heads. He is enormous. His skin is silver-plated, worn down in places to copper, stretched tight over a large round face. He is dressed in gaudy, flowing robes, and has a fez perched on his head, made of what looks like pulsing black metal. His teeth have rotted away and been replaced with golden ones which adorn his smile.
+> Finally, you reach the Sigilant's "throne room", in another of the blue cubes. The Sigilant himself floats towards you just above the floor on a silver anti-gravity throne adorned with bird-like heads. He is enormous. His skin is silver-plated, worn down in places to copper, stretched tight over a large round face. He is dressed in gaudy, flowing robes studded with cutlery, and a fez made of black metal. All his teeth are made of gold.
 
-> In one hand he has a goblet of a sickly-sweet smelling, gooey liquid. The smell drenches the room: honey mixed with overripe cheese and a dash of bleach.
+> In one hand he has a goblet of a sickly-sweet smelling, gooey liquid.
 
-**The Sigilant:** explorer/trader/despot; Skill 6, Stamina 20, Initiative 2; Advanced Skills: as Silver-plated Sigilant.
+```
+SIGILANT GRUBER (explorer/trader/despot)
 
-The Sigilant welcomes the PCs. (He speaks like an exotic market trader and is canny, suspicious and holding back. He is actually hundreds of years old, as the nectar is an anti-ageing drug. This is why he is desperate to keep up his supply. But he won't reveal this.)
+Skill 6, Stamina 20, Initiative 2, Armour 1
+
+Cowardly, refuses to fight
+```
+
+The Sigilant welcomes the PCs. (He is actually hundreds of years old, as the nectar is an anti-ageing drug. This is why he is desperate to keep up his supply. But he won't reveal this.)
 
 > "Welcome, my friends. I trust you have been treated well? A drink perhaps?"
 
@@ -71,7 +117,7 @@ The PCs will not be given the nectar, but Jeevz will offer them a tray of delect
 
 The Sigilant then explains his problem:
 
-> "So...to my problem. This is my favourite drink, nectar." He holds out the goblet. "I have nearly run out of it. My little humming birds used to bring it to me; but now, they have stopped, and my supplies are low. I need you to find out where my little birds have gone. And, if you can, make them come back to me. I will pay you handsomely if you do."
+> "So...to my problem. This is my favourite drink, nectar." He holds out the goblet. "I have nearly run out of it. My little humming birds used to bring it to me; but now, they have stopped, and my supplies are low. I need you to find out where my little birds have gone. And, if you can, make them come back to me. I will reward you with the parts you need if you succeed."
 
 * *If the PCs explain they need spare parts*, the Sigilant will ask what they need. Jeevz will then be able to confirm they have the necessary parts.
 * *If asked about his problem*, the Sigilant will provide more details:
@@ -106,41 +152,41 @@ The Eyves and their ecosystems have some ineffable purpose.
 
 If the PCs decide to take the mission:
 
-> The Sigilant leads you through a few more rooms into his "hangar". This room is a glass box like the others, but the ceiling shimmers and ripples like a soap bubble. The Sigilant explains, "It's a forcefield, to keep the air in".
+The Sigilant leads the PCs through a few more rooms into his "hangar". This room is a glass box like the others, but the ceiling shimmers and ripples like a soap bubble. The Sigilant explains, "It's a forcefield, to keep the air in".
 
-> The room contains 4 aircraft: one resembling a single large butterfly wing, one that looks like a random pile of metal poles, one like a goblet made of pearl, and the last a shifting mass of square panels of light which look like stained glass. The Sigilant tells you that this last one is called **Cupid**. He will let the PCs borrow her to complete their mission.
+The room contains 4 aircraft: one resembling a single large butterfly wing, one that looks like a random pile of metal poles, one like a goblet made of pearl, and the last a shifting mass of square panels of light which look like stained glass. The Sigilant tells you that this last one is called **Cupid**. He will let the PCs borrow her to complete their mission.
 
-Cupid looks different to each person that sees it: initially, it appears to an onlooker as shifting panels of stained glass; but as it is observed, its form appears to transform into that of a familiar flying machine known to the observer. On first encountering the vehicle, ask each player what they think it looks like: to them, the vehicle seems to have this form. (If a player can't decide, it appears to be the same as one of the other vehicles in the room.)
+Cupid looks different to each person that sees it: initially, it appears to an onlooker as shifting panels of stained glass; but as it is observed, its form appears to transform into that of a familiar flying machine known to the observer.
 
 The vehicle can comfortably hold 10 people (its dimensions always remain within a 10m cube).
 
+Cupid is a transport vehicle designed to take Eyve parts between sites and/or seed new Eyves. It arrived recently, to investigate moving any remaining jeevz from this dead Eyve to the one under construction; at this point, the Sigilant got the jeevz to restrain and capture it. He soon realised that it was trying to return somewhere, and that it has something to do with the jeevz and the humming birds. He is using the PCs as an experiment, in the hope that they will be taken to where "his" humming birds are.
+
 Cupid is capable of speech, but can only be heard by someone mounted on it. Its female voice seems to echo all around (though she is actually speaking to the person through their mind). Originally, the speech was intended to reprogram jeevz travelling inside it, ready for a new assignment at a new Eyve. To a human travelling inside it, the speech is rather cryptic.
 
-When the PCs are ready to leave:
+## Travelling in Cupid
 
-> You climb onto Cupid. As soon as you do so, you feel a sudden chill, and a wrenching sensation, as if your stomach is being pulled up towards your throat. The others who have climbed onto Cupid are suddenly invisible. You can feel and hear them, but they seem to be far, far away. You can still see the Sigilant smiling at you.
+When the PCs climb onto Cupid, they feel a sudden chill, and a wrenching sensation, as if their stomach is being pulled up towards their throat. The Sigilant keeps smiling at them, though he looks nervous.
 
-Once everyone is on:
+Once everyone has boarded, the Sigilant presses a button. The craft shifts, rocks and settles, as if it had been freed from invisible chains. Then it lifts off, floating up to the ceiling. A gentle female voice echoes around the cabin:
 
-> The Sigilant presses a button, and the craft shifts, rocks and settles, as if it had been freed from invisible chains. Then it lifts off, floating up to the ceiling. A gentle female voice surrounds you, echoing in your ears (it sounds like Jeevz):
+"Parameters reset ready for reprogramming to commence in 5...4...3...2..1." Then a stream of deafening gibberish begins. Through the babble, the Sigilant shouts: "Do not worry, my friends! I have heard it before. It is nothing to be afraid of!"
 
-> "Parameters reset ready for reprogramming to commence in 5...4...3...2..1." Then a stream of loud gibberish begins, making your ears ache. You feel as if your brain is pressing against the inside of your skull.
+The craft lifts up, through the ceiling membrane. The voice continues: "Veru and tectons are operational at the new site. Barbola work will commence shortly."
 
-> Through the babble, you hear the Sigilant shout: "Do not worry, my friends! I have heard it before. It is nothing to be afraid of!"
+Cupid powers up to incredible speed in an instant to fly about half a kilometre above the surface. It follows the obsidian cliff, which continues in a huge arc for several kilometres.
 
-> Mercifully, it stops. The craft continues to lift away from the hangar floor, gliding gently up and squeezing through the ceiling membrane. You get a sensation like greasy hands running over your exposed skin, and a scent of soap.
+* *If the PCs try to take control of Cupid:* Only a skilled pilot would stand a chance of understanding the controls. Others may fiddle with them and affect how Cupid handles, but the machine will quickly right itself if thrown off course. Though a concerted effort at mischief may enable a PC to deliberately crash the machine.
 
-> The voice continues again: "Veru and tectons are operational at the new site. Barbola work will commence shortly."
+After crashing, Cupid no longer makes any sense when spoken to or mounted. The mirage of isolation is gone, and she just appears as a large, shell-like, slightly pink container, 10m long. Anyone paying attention will see a series of letters across her dashboard which states "UNDER REPAIR". Over the next few hours, she will repair herself, ready to return to the Sigilant when the PCs are done in this area.
 
-> Cupid then powers up to incredible speed in an instant, though you can't feel her accelerate. Soon you are zipping along about half a kilometre above the surface. You can see that the obsidian cliff continues in a huge arc for many, many miles.
+Cupid's inertial dampeners prevent passengers receiving too much damage, but a high speed crash will still cause 1d6 stamina loss.
 
-Cupid is a transport vehicle designed to take Eyve parts between sites and/or seed new Eyves. It arrived recently, to investigate moving any remaining jeevz from this dead Eyve to the one under construction; at this point, the Sigilant got the jeevz to restrain and capture it. He soon realised that it was trying to return somewhere, and that it has something to do with the jeevz and the humming birds. He is using the PCs as an experiment, in the hope that they will be taken to where "his" humming birds are.
+???the course/map
 
 ## Cupid's artifacts
 
-The PCs have the opportunity to explore the inside of Cupid during the flight (individually, as they can't see each other). Cupid carries a number of artifacts equal to the number of passengers; each passenger can only find one of them. They are in hatches on the inside of the passenger compartment.
-
-The artifacts need some investigation to figure out their purpose, which is to capture small animals up to the size of a human:
+The PCs have the opportunity to explore the inside of Cupid during the flight. Cupid carries a number of Organo Capture Cubes (see below) equal to the number of passengers. They are in hatches on the inside of the passenger compartment. The artifacts need some investigation to figure out their purpose, which is to capture small animals up to the size of a human:
 
 **Organo Capture Cube**
 
@@ -154,89 +200,99 @@ Anyone pulled into a cube can only be released by someone else: there is no way 
 
 # The Firewall
 
-> Cupid follows the arc of the wall for perhaps 20 kilometres. Then, ahead of you, you can see a massive red wall jutting out from the glass cliff, stretching up into the sky. As you get closer, you see that the wall appears to be made of fire.
+Cupid follows the arc of the wall for perhaps 20 kilometres. Ahead, a massive red wall juts out of the obsidian cliff, stretching 2km up into the sky, wrapped around a section of the northern cliff. It extends half-way across the bottom of the abyss. On closer inspection, it appears to be made of fire.
 
-> As you approach it, Cupid speaks to you again: "I know the way. Jeevz will be home soon. Prepare for your duties." She seems to be heading straight for the wall. You're not sure if she can see it or not.
+Opposite, at the base of the southern cliff, is the Wax Forest.
 
-This large wall of fire is known as The Firewall. (The people of Sighing are aware of this, but won't offer this information unless asked.) Its purpose is to protect The Wax Forest and the giselts from predation. To one side of The Wax Forest is an area of barren brushland, then the cliff; The Firewall protects the other three sides. The wall stretches the same distance into the sky as the cliff (10km). The wall was originally programmed to let cupids through, but the malfunction means that it will treat cupids as hostile.
+Cupid speaks again: "I know the way. Jeevz returning home. Prepare for your duties."
 
-PCs may notices that the wall is glitching; the part Cupid is heading for is particularly erratic and dangerous-looking. The glitch manifests as polygonal sections of the wall (triangles, oblongs) disappearing, then reappearing with a flash at an odd angle to the rest of the wall surface, often with their dimensions changing (longer, fatter). This causes parts of the wall to strike the ground, where they leave behind long scorch marks.
+This large wall of fire is known as The Firewall. (The people of Sighing are aware of this, but won't offer this information unless asked.) Its purpose is to protect the second Eyve (a partially-constructed mirror of the Castle of the Eye) from predators. The wall was originally programmed to let cupids through, but the malfunction means that it will treat Cupid as hostile.
 
-The PCs can then attempt to influence Cupid to prevent her from flying into the wall, try to take control of the craft, try to help her go through the glitches etc.
+PCs may notices that the wall is glitching; the part that Cupid is heading for is particularly erratic and dangerous-looking. The glitch manifests as polygonal sections of the wall (triangles, oblongs, rhomboids) disappearing, then reappearing with a flash at an odd angle to the rest of the wall surface, often with their dimensions changing (longer, fatter). This causes parts of the wall to strike the ground, where they leave behind long scorched grooves.
+
+The PCs can attempt to influence Cupid to prevent her from flying into the wall, try to take control of the craft, try to help her go through the glitches etc.
 
 * *If the PCs try to discern a pattern to the glitches*, keen observation reveals that the glitches follow a pattern: there are three short bursts, then a pause of 30 seconds, then 2 longer bursts, then a pause for a minute, then back to the start of the cycle.
 
-* *If the PCs fly into the wall*: It appears to be two dimensional: as you pass through it, it appears to have no depth (it does, but it is so thin human eyes can't detect it).
+* *If the PCs fly into the wall:* It appears to be two dimensional: as you pass through it, it appears to have no depth (it does, but it is so thin human eyes can't detect it).
 
-Being caught by the wall:
+If Cupid is caught by the wall:
 
-> You think you are safely through when there is a sudden loud crackle in the air. You feel your hair stand on end, and a searing red beam arcs across the side of Cupid. Smoke and a viscous blue liquid pour from the wound. She leans to one side, makes a high-pitched drumming noise, and plummets to the ground. She crashes into the ground with a booming thud, skids across the surface, crumples into the foot of the cliff, and comes to a stop, hissing and steaming.
+> Electricity makes your hair stand on end. A searing red beam arcs across the vehicle. Smoke and a viscous blue liquid pour from the wound. It leans to one side, makes a high-pitched drumming noise, and plummets into the ground with a booming thud, skids across the surface, crumples into the foot of the cliff, and comes to a stop, hissing and steaming.
 
-PCs could fall out during the crash dive.
-
-Cupid is too damaged to fly; her circuits have been frazzled and she no longer makes any sense when spoken to or mounted. The mirage of isolation is gone, and she just appears as a large, shell-like, slightly pink container, 10m long.
+See the section **Travelling in Cupid** for details about damage sustained, repair etc.
 
 ## The Firewall glitch
 
-> You jump out of the wreckage and gather yourselves, you spot movement among the scorch marks across the plain.
+Around the Firewall live Ash Scavengers, creatures adapted to this unpredictable environment.
 
-> Several reptilian creatures, seemingly appearing out of nowhere, are visible about 100m away. They are 2m long, squat, with long toothy snouts, padding around on four legs. Each leg ends in large, scoop-like, clawed hands. The creatures paw the ground around the scorch marks and sniff the air. Then, almost as one, they turn their heads in your direction.
+> Several reptilian creatures seemingly appear out of nowhere. They are 2m long, squat, with long toothy snouts, padding around on four legs. Each leg ends in large, scoop-like, clawed hands. The creatures paw the ground around the scorch marks and sniff the air.
 
-The glitch in The Firewall has been happening for possibly millions of years; so long, in fact, that creatures (called Ash Scavengers, see below) have evolved to capitalise on it. They appear seemingly out of nowhere at points on the arcs burned by the firewall, just after it glitches. Their goal is to scavenge any creature unfortunate enough to have been caught in the fire.
+The glitch in The Firewall has been happening for possibly millions of years; so long, in fact, that these creatures have evolved to capitalise on it. They appear seemingly out of nowhere at points on the arcs burned by the firewall, just after it glitches. Their goal is to scavenge any creature unfortunate enough to have been caught in the fire.
 
-The number of Ash Scavengers should equal the number of party members. If the fight turns out to be too easy, add some more.
+The number of Ash Scavengers should equal the number of party members. If the fight turns out to be too easy, have some more glitch in.
 
 The Firewall will still glitch during combat, sending a sheet of flame through the combat on a roll of 1-2 on 1d6 each turn. One random PC or Ash Scavenger (if engaged with a PC or not moving) has to Test their Luck or take 4 damage.
 
-**Ash Scavengers**
+```
+ASH SCAVENGERS
 
-*Motive:* Scavenge burned creatures, eat charred meat.
+Skill 5, Stamina 8, Initiative 1, Armour 1
 
-*Environment:* Plains around The Wax Forest, near The Firewall glitch.
+Attacks: Large, relatively-weak, scooped claws (as Modest Beast)
 
-*Skill:* 5
+Special: Able to blink themselves in and out of this sphere, an adaptation they
+have evolved to allow them to dodge The Firewall's glitches. This also makes
+them difficult to fight, as they are preternaturally alert and fast. They
+will retreat on losing half their number.
 
-*Stamina:* 8
+If anyone manages to hold onto an Ash Scavenger when it blinks out, they are
+taken to the Blood Desert, a vast featureless desert of cracked red clay,
+stretching to the horizon in all directions; the air is sulphurous and smells
+of burning paper; it is difficult to breathe, and clings unpleasantly to your
+throat and nostrils. The sky crackles with fire.
 
-*Initiative:* 1
+If the Ash Scavenger realises it has a passenger, it will immediately
+return to the Abyss, hopefully still carrying its passenger; if the interloper
+manages to dismount in the Blood Desert, the Ash Scavengers will try to bring
+them back to the Abyss.
 
-*Armour:* 1
+Mien: Scavenge burned creatures, eat charred meat
 
-*Combat:* Ash Scavengers attack with large, relatively-weak, scooped claws. They will blink out of reality when threatened, in an attempt to dodge attacks. They are easily scared (they are primarily scavengers) and will retreat (via blinking out) when they lose half of the members of the pack.
+Description:
 
-*Damage:* as Modest Beast
+Ash Scavengers are animals which only live in this one part of the Abyss. They
+have evolved over millions of years from a local population of laminated wolves,
+adapting to the unpredictable conditions near the broken Firewall. They have
+evolved so far, in fact, that they have become a separate species: they are
+smaller and faster, and have lost the laminated wolf's ability to grapple while
+gaining a defensive "blink" ability (see above). They tend to operate in packs
+of 5-10 individuals.
 
-*Special abilities:* Blink; able to blink themselves in and out of this sphere, an adaptation they have evolved to allow them to dodge The Firewall's glitches. This also makes them difficult to fight, as they are preternaturally alert and fast.
-
-If anyone manages to hold onto an Ash Scavenger when it blinks out, they are taken to a vast featureless desert of cracked red clay, stretching to the horizon in all directions; the air is sulphurous and smells of burning paper; it is difficult to breathe, and clings unpleasantly to your throat and nostrils. The sky crackles with fire.
-
-If the ash scavenger realises it has an interloper, it will immediately return to the Abyss; if the interloper manages to dismount, the ash scavenger will return and attempt to grapple them to bring them back. The ash scavenger will continue doing this until it either dies or brings the interloper back. If the interloper kills the ash scavenger, other ash scavengers will appear and attempt to overwhelm the interloper to bring them back.
-
-*Description:*
-
-Ash Scavengers are animals which only live in this one part of the Abyss. They have evolved over millions of years from a local population of laminated wolves, adapting to the unpredictable conditions near the broken Firewall. They have evolved so far, in fact, that they have become a separate species: they are smaller and faster, and have lost the laminated wolf's ability to grapple but gaining a defensive "blink" ability (see above). They tend to operate in packs of 5-10 individuals.
-
-Ash Scavengers are intelligent enough to reason with, and usually speak a corrupted, simplistic version of the common tongue. They can often be bought off with food and shiny trinkets.
+Ash Scavengers are intelligent enough to reason with, and usually speak a
+corrupted, simplistic version of the common tongue. They can often be
+bought off with food and shiny trinkets.
+```
 
 # The Wax Forest
 
-> On the edge of the patch of burnt scrubland is what you assume to be The Wax Forest. It is a densely-wooded area of unusual trees, growing up to about 10m tall. Each large, floppy, greyish leaf is about the size of a plate, hanging in large clusters from the black wood. The leaves glisten in the sun, as if coated in sticky fluid.
+On the edge of the patch of burnt scrubland is The Wax Forest. It is a densely-wooded area of unusual trees, growing up to about 10m tall. Each large, floppy, greyish leaf is about the size of a plate, hanging in large clusters from black branches. The leaves glisten with sticky fluid.
 
-> A group of three tall creatures emerges gracefully from the forest. They are about 10m tall, with long, slender legs and necks. Their skin is the same shade of grey as the leaves, but with darker grey seams running through it. It looks like an artificial material, rather than fur. At the top of the long necks, the heads all have the same beautiful, familiar humanoid face: they look like Jeevz. Unlike Jeevz, however, each head carries a pair of elegant antlers, made of what appears to be steel. They are completely silent. As you watch, you start to feel relaxed and happy, almost as if meeting an old friend.
+A group of three tall pale grey creatures emerges gracefully from the forest. They are about 10m tall, with long, slender legs and necks. They each have the same beautiful, familiar humanoid face, like Jeevz, but topped with extravagant antlers, seemingly made of steel. They are completely silent. As you watch, you start to feel relaxed and happy, almost as if meeting an old friend.
 
 (This is the mind effect of the giselts, which prevents anyone from holding bad intentions towards them.)
 
-> The creatures start to feed on the leaves of the trees. As they do so, smaller, humming-bird-like creatures with rainbow wings land on their necks. The humming birds fly away from the giraffe creatures, glittering in the sun like pieces of stained glass. They seem to be flying up to a structure on the nearby cliff.
+The creatures start to feed on the leaves of the trees. As they do so, smaller, humming-bird-like creatures with rainbow wings land on their necks. The humming birds fly away from the giraffe creatures, glittering in the sun like fragments of stained glass. They seem to be flying up to a structure on the nearby cliff.
 
-> This structure looks very similar to the Sigilant's castle: it has roughly the same eye shape, but only seems to be half-finished. You can make out dozens of human-sized, dark figures clustered around the castle. They are moving slowly across the cliff, but it's not obvious what they're doing. The birds seem to be landing on the cubes and on these figures, then flying back down to the giraffe-like creatures again. This cycle continues over and over as you watch.
+This structure looks very similar to the Sigilant's castle: it has roughly the same eye shape, but only seems to be half-finished. An observer can make out dozens of human-sized, dark figures clustered around the castle. They are moving slowly across the cliff, but it's not obvious what they're doing. The birds seem to be landing on the cubes and on these figures, then flying back down to the giraffe-like creatures again. This cycle continues over and over.
 
-> Then you notice another creature on the outskirts of the forest. You suddenly realise it's not a creature: it appears to be a man, or something like a man, moving carefully within a few metres of the giraffe creatures. He seems to be recording their behaviour on an instrument with a large lens in the front of it.
+There is another creature on the outskirts of the forest. Or perhaps a man, or something like a man. It moves carefully within a few metres of the giraffe creatures. He seems to be recording their behaviour on an instrument with a large lens in the front of it.
 
 ## "Atten Avat"
 
-> The man is about 50 years old, grizzled looking, with long white hair and a thick beard. He is dressed in practical combat fatigues and light armour; his belt pouch contains a range of knives, compasses, short metal tubes and cannisters; on his back he is carrying a long metal tube with barbs sticking out of the sides of it.
+The man is about 50 years old, grizzled looking, with long white hair and a thick beard. He is dressed in practical combat fatigues and light armour; his belt pouch contains a range of knives, compasses, short metal tubes and cannisters; on his back he is carrying a long metal tube with barbs sticking out of the sides of it.
 
-> When you approach him and start speaking to him, he seems pleased to see you, but pre-occupied. He alternates between intently staring at you with his off-putting black eyes, and gazing back into the forest. He talks in a curiosly monotonous way.
+When approached, he pre-occupied. He alternates between intently staring at the PCs with off-putting black eyes, and gazing back into the forest. He talks in a curiosly monotonous way.
 
 The "man" doing the recording is Atten Avat (or, rather, was Atten Avat). Atten was a naturalist who came to this area to study the Eyve ecosystem. While in the area, he encountered a creature he nick-named a "Living Prison". This is a parasite which mimics local wildlife (and people) to take advantage of them. The giselts' psychic defences usually prevent them from being harmed; but the Living Prison can nullify their defences, and has "enslaved" a large proportion of the giselts and other parts of the local Eyve's ecosystem.
 
@@ -274,7 +330,7 @@ The dates on the entries indicate that Atten has been here for several months. T
 
 Towards the end of the entries, the tone of the journal changes, becoming paranoid:
 
-> "There are other creatures in the forest with me. Not the Ash Scavengers, with whom I maintain an uneasy peace. This is something I haven't encountered before. I hear the verus squawking at night; the other animals of the forest also seem nervous. I will be vigilant."
+> "There are other creatures in the forest with me. Not the reptilian Ash Scavengers, with whom I maintain an uneasy peace. This is something I haven't encountered before. I hear the verus squawking at night; the other animals of the forest also seem nervous. I will be vigilant."
 
 > "They were there at the edge of the camp last night: I could see them moving around in the undergrowth. I waved my firestick and they retreated. But they are biding their time. It is getting too dangerous to stay here. I must leave in the morning."
 
@@ -306,31 +362,39 @@ The Living Prison is a parasite which has imprisoned several wax trees, giselts 
 
 The PCs should be discouraged from attacking the Living Prison directly, as it may prove too strong for them. They may be better off attempting to use a Flattener to deal with it.
 
-**Living Prison**
+```
+LIVING PRISON
 
-*Motive:* Copy, consume.
+Skill 10, Stamina 30, Initiative 3, Armour 2
 
-*Environment:* The Wax Forest
+Attacks: Grappling tendrils (see below); Wicked teeth (can only reach grappled
+opponents, as Large Beast)
 
-*Skill:* 10
+Special:
 
-*Stamina:* 40
+The Living Prison lashes out with writhing, razor-edged tendrils which
+attempt to grapple attackers. This is carried out as a normal attack except that
+it holds the attacker in place rather than causing damage. A grappled entity
+can only perform purely mental actions or attempt to free itself
+(vs. Strength test). After failing to break the grapple, the Living Prison
+will attack its prey with one of its many mouths, arranged across its central torso,
+on the next turn.
 
-*Initiative:* 1
+Mien: Copy, consume
 
-*Armour:* 2
+Description:
 
-*Combat:* The Living Prison lashes out with writhing, razor-edged tendrils. When severely threatened, it may spawn partial copies of its attackers to defend itself: each has stats equivalent to a goblin with a sword.
+The Living Prison consists of a central torso, like a large red hump,
+festooned with a multitude of 30m long tendrils, like red ropes.
+Its mouths are located around the base of the hump and resemble large,
+lipless slits.
 
-*Damage:* Wicked teeth, as Large Beast; grappling tendrils which hold victims
-
-*Special abilities:* The Living Prison will attempt to grapple attackers. This is like a normal attack except that it holds the attacker still rather than causing damage. A grappled entity can only perform purely mental actions or attempt to free itself (vs. Skill test). After failing to break the grapple, the Living Prison will pull its prey into its many mouths, arranged across its central torso, on the next round.
-
-*Description:*
-
-The Living Prison consists of a central torso, like a large red hump, festooned with a multitude of 30m long tendrils, like red ropes. Its mouths are located around the base of the hump and resemble large, lipless slits.
-
-It is specific to the wax forests around Eyves, and has either evolved or was developed to take advantage of the Eyve ecosystem. It can also mimic other creatures after sensing them for several minutes; growing a new clone of a creature takes approximately 8 hours.
+It is specific to the wax forests around Eyves, and has either evolved
+or was developed to take advantage of the Eyve ecosystem. It can also
+mimic other creatures after sensing them for several minutes; growing a
+new clone of a creature takes approximately 8 hours. Each clone is equivalent
+in combat prowess to a goblin carrying a sword.
+```
 
 # Meeting the "new" Eyve
 
@@ -346,28 +410,18 @@ If attacked, the jeevz will convert to their defence form and defend the Eyve. T
 
 **Jeevz**
 
-*Motive:* Protect the Eyve.
+Skill 7, Stamina 10, Initiative 2, Armour 1
 
-*Environment:* Eyve chambers
+Attacks: Ranged laser eye attack (as pistolet); Bare hands (as Modest Beast)
 
-*Skill:* 7
-
-*Stamina:* 10
-
-*Initiative:* 2
-
-*Armour:* 1
-
-*Combat:* Ranged laser eye attack (as pistolet), or hands
-
-*Damage:* Eye - as pistolet; Melee - as Modest Beast
+Mien: Protect the Eyve
 
 # Resolving the mission
 
 * *If the PCs take jeevz from the new Eyve back to the Castle of the Eye*, the new jeevz will try to reactivate the Sigilant's Eyve. They will proceed to reprogram all the jeevz already there and reroute the nectar tubes. This will make the veru come back to the Castle of the Eye, but the Sigilant will be ejected by the jeevz.
+* *If they destroy the Living Prison*, the ecosystem of the new Eyve will repair itself.
 * *If the PCs return with information about the new Eyve to the Castle of the Eye*, the Sigilant will begrudgingly reward the PCs.
 * *If they destroy the new Eyve*, the veru will fly back to the Castle of the Eye. This will solve the Sigilant's problem, at least until the master Eyve realises. The Sigilant will reward the PCs.
-* *If they destroy the Living Prison*, the ecosystem of the new Eyve will repair itself.
 * *If they take giselts and wax tree seeds back to the Sigilant's Eyve*, the ecosystem will grow itself around the Castle of the Eye, restoring the Sigilant's nectar. The Sigilant will reward the PCs.
 
 The reward is to provide necessary gear and parts to repair the PCs' golden barge.
@@ -431,3 +485,85 @@ At will, a jeevz can transform its head into a weapon. The small plates forming 
 Jeevz live to protect the Eyve to the death. However, when an Eyve becomes dormant, jeevz continue to remain loyal to and protect it, but no longer remember why they are doing so. At this point, they are susceptible to being reprogrammed, like a baby animal which imprints on a parent from another species. This is how the Sigilant and his associates took ownership of them centuries ago.
 
 When an Eyve is functional, it can take control of one or all of the jeevz belonging to it and speak through them.
+
+# Other places
+
+Dank is a day's walk away from Sighing; Mind Camp three days walk away.
+
+Random encounters during the journey:
+
+* **A sun beast called Sir Lexington van Herpendorf**. He appears as a golden-lit, lion-headed humanoid wearing dark glasses and a suit; his skin glows around and through the suit. This poor fellow is lost after falling down the Abyss; he's originally an inhabitant of a place called Gotobed. He doesn't seem too bothered about being lost, but would like to leave. He is pretty laid back and has the catch phrase "I'm shakin' it 'til I'm bakin' it!" or "Shake it 'til you bake it!", though he's not sure why or what it means. He's been to Dank but didn't like it: "Too hot! Those dudes are so cross, man!". He has met the lamia and barely escaped with his life, having a scar on his arm where she nicked him and tried to drink his blood. He's not aggressive. He doesn't have anything to trade and has very few possessions (a couple of rations, a shortsword). If the PCs help him find his way out, or offer him a lift, he will become a firm friend and may be useful as a contact later on.
+
+* **Mrs. Rumbelow, a tired lamia that wants to die but can't help fighting back**. A creature with the top half of a languid woman, cascades of red hair, feathered torso, and the bottom half of a bird of prey (she struts like a chicken). She is carrying two daggers in her belt. She whispers to anyone passing by to "Come in, come in, help me, please, gentle traveller; I have riches and food I will share". She lives in a ruined barn to the side of the road, weak through lack of food, slumped in a fetid corner. For ages, she has had to subsist on hymenopteran traders, "the taste of which I can't abide". She is suicidal by this point: "I can't help feeling I'd be better off dead. Would you gentlemen be willing to humour me and put me death? I can't promise I won't fight back, as survival instinct is wont to kick in at the worst of times. And I long to carve the flesh from your broken bones and feast on it. But as far as possible, I will hold back." If killed, her grimoire may be taken, which can be used to learn the spell *Affix* with an appropriate Skill roll and 1d6+3 days of study. She has 3d6 silver pennies, a ragged old tiger soft toy, and basic household goods, but she lied about the riches.
+
+```
+MRS. RUMBELOW, SUICIDAL LAMIA
+
+Skill 8, Stamina 15, Initiative 3, Armour 1
+
+Attacks: Knife or Claws (as Moderate Beast)
+
+Special: Knows the spells *Affix*, which she uses to hold enemies in place if
+she is losing a fight; and *Amity*, which she uses to stop enemies from
+attacking her before walking up and clawing them
+
+Mien: Wants to die
+```
+
+## Town of Dank
+
+A series of spindly, yellow towers pierce the biege fog like fingers through school toilet tissue paper. The towers are encrusted with an ochre mould. On the surface of each clamber shiny black fly-like wingless insectoids, suckling on the mould.
+
+In the narrow, crowded streets, the air is even thicker and more cloying than outside town. The drains run with an acrid viscous yellow liquid which smells of formaldehyde and makes your eyes sting. Hundreds of the insectoids are engaged in mindless exchanges, barging, pulling, cajoling. A heated exchange in front of you ends with one of the creatures biting the head off the other, leaving an oozing, stinking stump behind.
+
+The town is populated by feckless, chittering hymenopteran traders. They are extraordinarily impatient, easily upset, particularly with those unable to speak their trade cant, and become increasingly agitated and hyperactive. However, they do have the parts required to fix the golden barge, at a cost of around 1d6*10 silver pence. Double or triple this price if the buyers take to long and make them become impatient.
+
+```
+HYMENOPTERAN TRADER
+
+Skill 6, Stamina 9, Initiative 2, Armour 1
+
+Claws (Damage as Modest Beast)
+```
+
+## Town of Mind Camp
+
+The town is run down, falling apart. Telegraph poles fallen over, roofs caved in. Meeting hall abandoned and boarded up. Each building has a symbol painted on it, which looks like a person looking skywards, surrounded by rings of energy or electricity or similar. Sinkholes litter the road. The ground rumbles and shifts, dropping slightly, as you walk over it.
+
+Populated by dreamers who spend most of their time looking up. They take hallucinogenic drugs which warp time, and just generally waste time until they die. They live on a purple banana which grows in profusion around the town, with even stronger narcotic effects than that in Sighing. The fruit also possesses life-prolonging properties, similar to the nectar produced by the eyves.
+
+The dreamers are generally indifferent to strangers, though they will offer their fruit to visitors. They are generally quite selfish, like members of a cult. They practice a type of ancestor worship: the dead take up residence in the homes, and the living tend to the dead, replacing the food, drink and bedding and cleaning as if the dead were alive. The living then sleep rough outside, taking drugs so they are in a continual state of forgetful bliss. Days can pass under the influence of their drugs, after which they tend to the dead inside their homes, then return to their rough sleeping and more drugs.
+
+They have nothing of any use that they know of, but the ruins may be home to various treasures, as well as dangers which have been allowed to fester. There are several large sinkholes where roads have collapsed, home to a variety of wildlife. To spice things up, have the PCs fall into one, to be confronted by some horror, e.g.
+
+```
+LIVING DEAD (one per party member)
+
+Shambling or running, depending on the weather. Bits are falling off.
+
+Skill 6, Stamina 12, Initiative 1, Armour 0, Filthy claws and biting (Damage as Modest Beast)
+
+1. Oblivious
+2. Pondering
+3. Distracted
+4. Hungry
+5. Aggressive
+6. Distressed
+```
+
+or:
+
+```
+GREMLIN (one per party member)
+
+Tiny greenish humanoids in potato sacks, spiky faces hidden under hoods.
+
+Skill 3, Stamina 4, Initiative 3, Armour 0, Knife
+
+1. Inveigling
+2. Fearful
+3. Fearful
+4. Aggressive
+5. Aggressive
+6. Fake inveigling (aggressive)
+```
