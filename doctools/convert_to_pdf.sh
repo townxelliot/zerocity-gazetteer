@@ -12,4 +12,4 @@ OUT_FILE="$SRC_DIR/pdfs/zerocity_v${version}-${date}.pdf"
 
 echo "Writing PDF to $OUT_FILE"
 
-/home/ell/apps/wkhtmltox/bin/wkhtmltopdf -s A4 --footer-spacing 15 --footer-center "[page]" -B $margin -L $margin -R $margin -T $margin toc ../zerocity_gazetteer/gazetteer.html $OUT_FILE
+/home/ell/apps/wkhtmltox/bin/wkhtmltopdf -s A4 --footer-spacing 15 --footer-center "[page]" -B $margin -L $margin -R $margin -T $margin toc $SRC_DIR/gazetteer.html $OUT_FILE

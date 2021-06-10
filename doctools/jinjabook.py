@@ -40,7 +40,7 @@ class Templater:
 
 
 if __name__ == '__main__':
-    content_dir = os.path.join(os.path.dirname(__file__), '..', 'zerocity_gazetteer')
+    content_dir = os.path.join(os.path.dirname(__file__), '..', 'src')
     t = Templater('book.md', 'master.jinja', 'meta.json', content_dir)
     html = t.render()
 
