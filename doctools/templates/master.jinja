@@ -8,7 +8,7 @@
 @media print, screen {
   * {
     font-family: "Averia Libre", serif;
-    font-size: 20px;
+    font-size: 32px;
   }
   code {
     font-family: monospace;
@@ -32,7 +32,11 @@
   h1, h2, h3, h4 {
     break-after: avoid;
   }
-  blockquote, th {
+  blockquote {
+    font-weight: bold;
+    margin-left: 0;
+  }
+  th {
     font-weight: bold;
   }
   table, tr, th, td {
@@ -59,6 +63,18 @@
   img {
     margin: 0 2em 2em 2em;
     max-width: 300px;
+  }
+  pre {
+    font-family: monospace;
+    font-size: 20px;
+  }
+  .full-width {
+    width: 100%;
+    max-width: 100%;
+    clear: both;
+    border: none;
+    margin: 0;
+    padding: 0;
   }
   .float-right {
     float: right;
