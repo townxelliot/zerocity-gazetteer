@@ -1,14 +1,14 @@
-GAZETTEER_DIR=../zerocity_gazetteer
+SRC_DIR=../src
 
 margin=30mm
 
 source ~/venv/troikadocs/bin/activate
 
-python3 jinjabook.py > $GAZETTEER_DIR/gazetteer.html
+python3 jinjabook.py > $SRC_DIR/gazetteer.html
 
-version=`cat $GAZETTEER_DIR/meta.json | jq '.version'| sed -e 's|"||g'`
-date=`cat $GAZETTEER_DIR/meta.json | jq '.date' | sed -e 's|["-]||g'`
-OUT_FILE="$GAZETTEER_DIR/pdfs/zerocity_v${version}-${date}.pdf"
+version=`cat $SRC_DIR/meta.json | jq '.version'| sed -e 's|"||g'`
+date=`cat $SRC_DIR/meta.json | jq '.date' | sed -e 's|["-]||g'`
+OUT_FILE="$SRC_DIR/pdfs/zerocity_v${version}-${date}.pdf"
 
 echo "Writing PDF to $OUT_FILE"
 
