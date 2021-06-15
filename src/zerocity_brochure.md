@@ -5,11 +5,11 @@ Published by Nada Holidays, your Number One choice for travelling the spheres.
 
 Arguably The Country's most dynamic and thrilling industrial metropolis, Zerocity is also one of the most surprising. Each day, new buildings spawn in the ever-mutating landscape, nestling in a skyline of oblique palaces and historic buildings such as The Nest, The Brain Dawn Clock, and The White Cage.
 
-<img src="./images/zerocity.png" class="full-width" title="Entering Zerocity"/>
+<img src="./images/zerocity.png" class="full-width" title="The Hag Acid Tower, nestled in the heart of Zerocity"/>
+
+Photograph: The Hag Acid Tower, nestled in the heart of Zerocity - a thin, fungi yellow edifice whose pinnacle pierces a threatening cloud layer; the surface of the tower is decorated with mould, gargoyles, robot debris, and corpses.
 
 Crumbling and desiccated it may be, but the city has style and survival instinct. Here, in 'the city that never breathes', you'll encounter so many dangerous and incomprehensible occurrences that you're likely to return with your life in tatters!
-
-Photograph: The Hag Acid Tower - a thin, fungi yellow edifice whose pinnacle pierces a threatening cloud layer; the surface of the tower is decorated with mould, gargoyles, robot debris, and corpses.
 
 <span data-role="pagebreak"></span>
 
