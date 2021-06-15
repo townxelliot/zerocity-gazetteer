@@ -4,7 +4,7 @@ Whether for anaesthetising patients in the Flesh Zone or powering the Hag Acid T
 
 Open air and gargantuan buildings Above terrify you. Fortunately, the Guild keeps you busy in the echoing smoky wetness Beneath. It is lonely down there, but a hat makes good company.
 
-<img class="float-right" title="Gas Channeller" src="./images/gas_channeller.png">
+<img class="float-right" title="Gas Channeller" src="./images/gas_channeller.png"/>
 
 #### Possessions
 
@@ -24,7 +24,7 @@ Open air and gargantuan buildings Above terrify you. Fortunately, the Guild keep
 * 2 Spell - Cone of Air
 * 1 Spell - Breach
 
-<pagebreak>
+<span data-role="pagebreak"></span>
 
 #### Special
 

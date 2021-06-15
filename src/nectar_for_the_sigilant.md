@@ -12,7 +12,7 @@ Other parts, you can paraphrase or ignore as you see fit.
 
 > Nearby, at the base of the cliffs, is the village of Sighing. There is a map of it on a nearby noticeboard. The village is a cluster of a few dozen metal shipping containers serving as houses.
 
-<image src="./images/village_of_sighing.png" class="full-width" title="Map of the village of Sighing">
+<img src="./images/village_of_sighing.png" class="full-width" title="Map of the village of Sighing"/>
 
 On entering the village:
 
@@ -172,7 +172,7 @@ Cupid is a transport vehicle designed to take Eyve parts between sites and/or se
 
 Cupid is capable of speech, but can only be heard by someone mounted on it. Its female voice seems to echo all around (though she is actually speaking to the person through their mind). Originally, the speech was intended to reprogram jeevz travelling inside it, ready for a new assignment at a new Eyve. To a human travelling inside it, the speech is rather cryptic.
 
-<image src="./images/the_abyss.jpg" class="full-width" title="Map of The Abyss around Sighing">
+<img src="./images/the_abyss.jpg" class="full-width" title="Map of The Abyss around Sighing"/>
 
 ## Travelling in Cupid
 
@@ -226,76 +226,6 @@ she is losing a fight; and *Amity*, which she uses to stop enemies from
 attacking her before walking up and clawing them
 
 Mien: Wants to die
-</pre>
-
-## Other places near Sighing
-
-There are other places in the Abyss within a few kilometres of Sighing. Dank is a 2 hour walk from Sighing; Mind Camp 4 hours.
-
-If the PCs travel in Cupid, it will avoid both of these towns, because they are frankly hazardous. However, the PCs may decide they offer better hope of providing the parts they need, or they might just be perverse, and end up in them anyway.
-
-### Town of Dank
-
-> A series of spindly, yellow towers pierce the biege fog like fingers through school toilet tissue paper. The towers are encrusted with an ochre mould. On the surface of each clamber shiny black fly-like wingless insectoids, suckling on the mould.
-
-> In the narrow, crowded streets, the air is even thicker and more cloying than outside town. The drains run with an acrid viscous yellow liquid which smells of formaldehyde which makes your eyes sting. Hundreds of the insectoids are engaged in mindless exchanges, barging, pulling, cajoling. A heated exchange in front of you ends with one of the creatures biting the head off the other, leaving an oozing, stinking stump behind.
-
-The town is populated by feckless, chittering hymenopteran traders. They are extraordinarily impatient, easily upset, particularly with those unable to speak their trade cant, and become increasingly agitated and hyperactive. However, they do have the parts required to fix the golden barge, at a cost of around 1d6*10 silver pence. Double or triple this price if the buyers take to long to make a decision.
-
-<pre>
-HYMENOPTERAN TRADER
-
-Skill 6, Stamina 9, Initiative 2, Armour 1
-
-Claws (Damage as Modest Beast)
-</pre>
-
-### Town of Mind Camp
-
-> The town is run down, falling apart. Telegraph poles fallen over, roofs caved in. An abandoned, boarded up meeting hall. Each building has a symbol painted on it: a person looking skywards, surrounded by rings of energy or electricity or the like. Sinkholes litter the road. The ground rumbles and shifts, drooping slightly, as you walk over it.
-
-Populated by dreamers who spend most of their time looking up. They take hallucinogenic drugs which warp time, and just generally waste time until they die. They live on a purple banana which grows in profusion around the town, with even stronger narcotic effects than the bananas in Sighing. The fruit also possesses life-prolonging properties, similar to the nectar produced by the eyves.
-
-The dreamers are generally indifferent to strangers, though they will offer their fruit to visitors. They behave like members of a cult, trying to get others to follow their credo ("We receive our reward when we wake in death; life is merely an illusory distraction to be forgotten like a dream"). They practice a type of ancestor worship: the dead take up residence in the houses, and the living tend to the dead, replacing the food, drink and bedding regularly, keeping everything clean, as if the dead are alive and care. The living then sleep rough outside, taking drugs so they are in a continual state of forgetful bliss. Days can pass under the influence of their drugs, after which they once more tend to the dead inside their houses, then return to their rough sleeping and more drugs.
-
-They have nothing of any use that they know of, but the ruins may be home to various treasures, as well as dangers which have been allowed to fester. There are several large sinkholes where roads have collapsed, home to a variety of wildlife. To spice things up, have the PCs fall into one, to be confronted by some horror, e.g.
-
-<pre>
-LIVING DEAD (one per party member)
-
-Shambling or running, depending on the weather. Bits are falling off.
-
-Skill 6, Stamina 12, Initiative 1, Armour 0
-
-Filthy claws and biting (Damage as Modest Beast)
-
-Mien:
-
-1. Oblivious
-2. Pondering
-3. Distracted
-4. Hungry
-5. Aggressive
-6. Distressed
-</pre>
-
-or:
-
-<pre>
-GREMLIN (one per party member)
-
-Tiny greenish humanoids in potato sacks, spiky faces hidden under hoods.
-
-Skill 3, Stamina 4, Initiative 3, Armour 0, Knife
-
-Mien:
-
-1. Inveigling
-2. Fearful
-3. Fearful
-4. Aggressive
-5. Aggressive
-6. Fake inveigling (aggressive)
 </pre>
 
 ## The Firewall
@@ -440,7 +370,9 @@ The dates on the entries indicate that Atten has been here for several months. T
 
 The PCs may realise Atten is dead and has been replaced by a mimic.
 
-On searching the camp, they may find his sky ladder artifact, along with several oxygen masks. He also has a 2 flatteners, which could be used to defeat the Living Prison and/or the Eyve. There are numerous other bits and pieces, including single-use firesticks, lab apparatus, photographs of the creatures in the ecosystem, rations etc.
+### Atten's camp
+
+On searching the camp, the PCs may find his sky ladder artifact, along with several oxygen masks and a map of the local area (see ???the_abyss.jpg). He also has a 2 flatteners, which could be used to defeat the Living Prison and/or the Eyve. There are numerous other bits and pieces, including single-use firesticks, lab apparatus, photographs of the creatures in the ecosystem, rations etc.
 
 **Sky ladder**: A grey box 1 x 1 x 0.5m in size. When activated, a ladder of pure energy emerges from the top and extends vertically into the sky. It can be stopped at any desired height. The maximum height it can reach is 2km (note that humans can breathe with minor effort at this height, even though the air is thinner). Seemingly any number of humanoids can grab the ladder as it extends and be carried up with it. Note that the ladder only extends vertically, so the box has to be positioned almost underneath the point you're trying to reach. It also appears to have its own stabilisers, so it isn't affected by even the strongest wind or physical force.
 
@@ -510,13 +442,15 @@ The Eyve is aware that its ecosystem is being disrupted by the Living Prison. It
 
 If attacked, the jeevz will convert to their defence form and defend the Eyve. There is one jeevz for each PC.
 
-**Jeevz**
+<pre>
+JEEVZ
 
 Skill 7, Stamina 10, Initiative 2, Armour 1
 
 Attacks: Ranged laser eye attack (as pistolet); Bare hands (as Modest Beast)
 
 Mien: Protect the Eyve
+</pre>
 
 ## Resolving the mission
 
@@ -527,6 +461,76 @@ Mien: Protect the Eyve
 * *If they take giselts and wax tree seeds back to the Sigilant's Eyve*, the ecosystem will grow itself around the Castle of the Eye, restoring the Sigilant's nectar. The Sigilant will reward the PCs.
 
 The reward is to provide necessary gear and parts to repair the PCs' golden barge. After this is done, Drago (the pilot) can fix the barge in a matter of minutes and continue the journey to Luton.
+
+## Other places near Sighing
+
+There are other places in the Abyss within a few kilometres of Sighing. Dank is a 2.5 hour walk from Sighing; Mind Camp 6 hours (following the road).
+
+If the PCs travel in Cupid, it will avoid both of these towns, because they are frankly hazardous. However, the PCs may decide they offer better hope of providing the parts they need, or they might just be perverse, and end up in them anyway.
+
+### Town of Dank
+
+> A series of spindly, yellow towers pierce the biege fog like fingers through school toilet tissue paper. The towers are encrusted with an ochre mould. On the surface of each clamber shiny black fly-like wingless insectoids, suckling on the mould.
+
+> In the narrow, crowded streets, the air is even thicker and more cloying than outside town. The drains run with an acrid viscous yellow liquid which smells of formaldehyde which makes your eyes sting. Hundreds of the insectoids are engaged in mindless exchanges, barging, pulling, cajoling. A heated exchange in front of you ends with one of the creatures biting the head off the other, leaving an oozing, stinking stump behind.
+
+The town is populated by feckless, chittering hymenopteran traders. They are extraordinarily impatient, easily upset, particularly with those unable to speak their trade cant, and become increasingly agitated and hyperactive. However, they do have the parts required to fix the golden barge, at a cost of around 1d6*10 silver pence. Double or triple this price if the buyers take to long to make a decision.
+
+<pre>
+HYMENOPTERAN TRADER
+
+Skill 6, Stamina 9, Initiative 2, Armour 1
+
+Claws (Damage as Modest Beast)
+</pre>
+
+### Town of Mind Camp
+
+> The town is run down, falling apart. Telegraph poles fallen over, roofs caved in. An abandoned, boarded up meeting hall. Each building has a symbol painted on it: a person looking skywards, surrounded by rings of energy or electricity or the like. Sinkholes litter the road. The ground rumbles and shifts, drooping slightly, as you walk over it.
+
+Populated by dreamers who spend most of their time looking up. They take hallucinogenic drugs which warp time, and just generally waste time until they die. They live on a purple banana which grows in profusion around the town, with even stronger narcotic effects than the bananas in Sighing. The fruit also possesses life-prolonging properties, similar to the nectar produced by the eyves.
+
+The dreamers are generally indifferent to strangers, though they will offer their fruit to visitors. They behave like members of a cult, trying to get others to follow their credo ("We receive our reward when we wake in death; life is merely an illusory distraction to be forgotten like a dream"). They practice a type of ancestor worship: the dead take up residence in the houses, and the living tend to the dead, replacing the food, drink and bedding regularly, keeping everything clean, as if the dead are alive and care. The living then sleep rough outside, taking drugs so they are in a continual state of forgetful bliss. Days can pass under the influence of their drugs, after which they once more tend to the dead inside their houses, then return to their rough sleeping and more drugs.
+
+They have nothing of any use that they know of, but the ruins may be home to various treasures, as well as dangers which have been allowed to fester. There are several large sinkholes where roads have collapsed, home to a variety of wildlife. To spice things up, have the PCs fall into one, to be confronted by some horror, e.g.
+
+<pre>
+LIVING DEAD (one per party member)
+
+Shambling or running, depending on the weather. Bits are falling off.
+
+Skill 6, Stamina 12, Initiative 1, Armour 0
+
+Filthy claws and biting (Damage as Modest Beast)
+
+Mien:
+
+1. Oblivious
+2. Pondering
+3. Distracted
+4. Hungry
+5. Aggressive
+6. Distressed
+</pre>
+
+or:
+
+<pre>
+GREMLIN (one per party member)
+
+Tiny greenish humanoids in potato sacks, spiky faces hidden under hoods.
+
+Skill 3, Stamina 4, Initiative 3, Armour 0, Knife
+
+Mien:
+
+1. Inveigling
+2. Fearful
+3. Fearful
+4. Aggressive
+5. Aggressive
+6. Fake inveigling (aggressive)
+</pre>
 
 ## Appendix: The Eyve and its ecosystem
 

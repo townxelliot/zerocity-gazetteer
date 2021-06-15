@@ -2,17 +2,16 @@ Published by Nada Holidays, your Number One choice for travelling the spheres.
 
 ## Why choose Zerocity?
 
-<image src="./images/hag_acid_tower_detail.png" class="float-left" title="Detail of the Hag Acid Tower">
 
 Arguably The Country's most dynamic and thrilling industrial metropolis, Zerocity is also one of the most surprising. Each day, new buildings spawn in the ever-mutating landscape, nestling in a skyline of oblique palaces and historic buildings such as The Nest, The Brain Dawn Clock, and The White Cage.
 
+<img src="./images/zerocity.png" class="full-width" title="Entering Zerocity"/>
+
 Crumbling and desiccated it may be, but the city has style and survival instinct. Here, in 'the city that never breathes', you'll encounter so many dangerous and incomprehensible occurrences that you're likely to return with your life in tatters!
 
-Photograph: a thin, fungi yellow tower whose pinnacle pierces a threatening cloud layer; the surface of the tower is decorated with mould, gargoyles, robot debris, and corpses.
+Photograph: The Hag Acid Tower - a thin, fungi yellow edifice whose pinnacle pierces a threatening cloud layer; the surface of the tower is decorated with mould, gargoyles, robot debris, and corpses.
 
-Caption: The stunning Hag Acid Tower, visible from all points in Zerocity.
-
-<pagebreak>
+<span data-role="pagebreak"></span>
 
 ## A choice of hotels - select your area!
 
@@ -32,9 +31,11 @@ Photograph: a large man with a deathly pale face, wearing a suit; an expression 
 
 Caption: The colourful psychopolyvore, one of the inhabitants of The Forest of Hyper Boles. To be avoided at all costs.
 
-<pagebreak>
+<span data-role="pagebreak"></span>
 
 ### 3. The Four Palaces - gateway to discovery
+
+<img src="./images/hag_acid_tower_detail.png" class="float-left" title="Detail of the Hag Acid Tower"/>
 
 Within a 10 minute stroll of The Citadel of Germs, yet still several miles from water, The Four Palaces are fine, modern structures overlooking The Mirror Valley. Obligatory meals apply at all times of the day.
 
@@ -82,7 +83,7 @@ Map: a huge symmetrical circle, divided into four by tremendous roads that radia
 
 The price of your short break to Zerocity includes:
 
-* one way travel to The Port
+* one way travel to The Stairport
 * transfer to your chosen location on arrival
 * accommodation of our choice
 * counselling, if you escape

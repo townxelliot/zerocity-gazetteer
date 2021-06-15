@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>Zerocity Gazetteer</title>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
 <style>
-@media print, screen {
   * {
     font-family: "Averia Libre", serif;
     font-size: 32px;
@@ -55,18 +55,12 @@
     height: auto;
     border: 2px solid #888;
     padding: 1em;
-  }
-  pagebreak {
-    display: block;
-    page-break-before: always;
-  }
-  img {
     margin: 0 2em 2em 2em;
-    max-width: 300px;
+    max-width: 600px;
   }
   pre {
     font-family: monospace;
-    font-size: 20px;
+    font-size: 30px;
   }
   .full-width {
     width: 100%;
@@ -84,7 +78,10 @@
     float: left;
     margin-left: 0;
   }
-}
+  [data-role=pagebreak] {
+    display: block;
+    page-break-before: always;
+  }
 </style>
 </head>
 <body>

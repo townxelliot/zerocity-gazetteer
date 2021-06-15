@@ -1,3 +1,5 @@
+# Zerocity Gazetteer
+
 This is a setting and adventure designed for use with Troika!. I plan to expand the backgrounds over time, but decided to publish what I already have as an experiment. Enjoy!
 
 Version: {{meta.version}}-{{meta.date|replace('-', '')}}

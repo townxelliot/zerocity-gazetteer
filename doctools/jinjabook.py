@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 from markdown import markdown
 from jinja2 import Environment, FileSystemLoader, Markup
@@ -40,8 +41,10 @@ class Templater:
 
 
 if __name__ == '__main__':
+    markdown_file = sys.argv[1]
+
     content_dir = os.path.join(os.path.dirname(__file__), '..', 'src')
-    t = Templater('book.md', 'master.jinja', 'meta.json', content_dir)
+    t = Templater(markdown_file, 'master.jinja', 'meta.json', content_dir)
     html = t.render()
 
     print(html)
