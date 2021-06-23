@@ -74,6 +74,8 @@ The Sigilant would not normally agree to help outsiders. On this occasion, thoug
 
 The enclosed glass elevator travels with terrifying speed at the airlock in the base of the castle. Exiting the airlock takes the PCs into the castle's first opaque cube.
 
+<span data-role="pagebreak"></span>
+
 ## The Castle of the Eye
 
 > You are greeted by an androgynous butler dressed in plain black clothes with white collar and cuffs with slightly artificial skin: too shiny and almost transparent. Their feet are enormous and plate-like; their hands are also too large and plate-like with stubby fingers; their face is too symmetrical.
@@ -265,6 +267,8 @@ The glitch in The Firewall has been happening for possibly millions of years; so
 The number of Ash Scavengers should equal the number of party members. If the fight turns out to be too easy, have some more glitch in.
 
 The Firewall will still glitch during combat, sending a sheet of flame through the combat on a roll of 1-2 on 1d6 each turn. One random PC or Ash Scavenger (if engaged with a PC or not moving) has to Test their Luck or take 4 damage.
+
+<span data-role="pagebreak"></span>
 
 <pre>
 ASH SCAVENGERS
@@ -531,6 +535,8 @@ Mien:
 5. Aggressive
 6. Fake inveigling (aggressive)
 </pre>
+
+<span data-role="pagebreak"></span>
 
 ## Appendix: The Eyve and its ecosystem
 

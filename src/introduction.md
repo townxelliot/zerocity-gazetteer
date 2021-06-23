@@ -14,7 +14,7 @@ Legal text required for Troika! compatible products:
 
 ## Technical
 
-This book was constructed using markdown, Python scripts and wkhtmltopdf.
+This book was constructed using markdown, Python scripts and wkhtmltopdf, maintained in [the code repository](https://github.com/townxelliot/zerocity-gazetteer).
 
 The map of The Abyss was drawn with [Inkarnate](https://inkarnate.com/).
 

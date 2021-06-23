@@ -11,8 +11,6 @@ Photograph: The Hag Acid Tower, nestled in the heart of Zerocity - a thin, fungi
 
 Crumbling and desiccated it may be, but the city has style and survival instinct. Here, in 'the city that never breathes', you'll encounter so many dangerous and incomprehensible occurrences that you're likely to return with your life in tatters!
 
-<span data-role="pagebreak"></span>
-
 ## A choice of hotels - select your area!
 
 ### 1. The Hub - explore the nature of time
