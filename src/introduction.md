@@ -1,6 +1,6 @@
 # Zerocity Gazetteer
 
-This is a setting and adventure designed for use with Troika!. I plan to expand the backgrounds over time, but decided to publish what I already have as an experiment. Enjoy!
+This is a setting, backgrounds and adventure designed for use with Troika!. I plan to expand the backgrounds over time, but decided to publish what I already have as an experiment. Enjoy!
 
 Version: {{meta.version}}-{{meta.date|replace('-', '')}}
 
@@ -21,3 +21,7 @@ The map of The Abyss was drawn with [Inkarnate](https://inkarnate.com/).
 The map of Sighing was generated using the [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator).
 
 The font for the body text is [Averia Libre](https://fonts.google.com/specimen/Averia+Libre).
+
+## Thanks
+
+Thanks to the Artefact gaming group for playtesting the *Nectar for the Sigilant* adventure: Andy Brissenden, Nick Fine, Steve Kissane and Brandon Williams.
