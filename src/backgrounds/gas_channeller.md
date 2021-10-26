@@ -16,7 +16,7 @@ Open air and gargantuan buildings Above terrify you. Fortunately, the Guild keep
 
 #### Advanced skills
 
-* 3 Identify Gas
+* 3 Gas Wrangling
 * 2 Swim
 * 2 Underground Navigation
 * 1 Awareness

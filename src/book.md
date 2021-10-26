@@ -21,3 +21,9 @@
 <h1>Nectar for the Sigilant</h1>
 
 {{'nectar_for_the_sigilant.md' | markdown}}
+
+<span data-role="pagebreak"></span>
+
+<h1>Crystals of Doom</h1>
+
+{{'crystals_of_doom.md' | markdown}}
