@@ -30,4 +30,4 @@ The font for the body text is [Averia Libre](https://fonts.google.com/specimen/A
 
 Thanks to the Artefact gaming group for playtesting the *Nectar for the Sigilant* adventure: Andy Brissenden, Nick Fine, Steve Kissane and Brandon Williams.
 
-Thanks to Joel and Jono for playtesting *Crystals of Doom* in its early 13th Age incarnation; and to Nick Fine, Steve Kissane, Paul Rickard and Steve Donaldspon for testing the Troika! version.
+Thanks to Joel and Jono for playtesting *Crystals of Doom* in its early 13th Age incarnation; and to Nick Fine, Steve Kissane, Paul Rickard and Steve Donaldson for testing the Troika! version.
